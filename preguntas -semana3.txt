@@ -1,0 +1,3 @@
+1. ¿Qué es Git y para qué sirve?
+2. ¿Cuál es la diferencia entre Git y GitHub?
+3. Explica qué es un repositorio, un commit y una rama
